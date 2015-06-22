@@ -65,7 +65,7 @@ We'll be using the file `lib/collections.js` as a starting point to:
 $ grunt test
 ```
 
-## Quiz
+## Assessment
 
 Please follow the instructions at https://github.com/ga-wdi-boston/js-collections-08-solo-assessment
 
